@@ -2,6 +2,7 @@
 <h2 align="center">Análise de dados com Python e Pandas</h3>
 <h3 align="center">Extract Transform and Load (ETL)</h2>
 
+[![Everything Is AWESOME](https://i9.ytimg.com/vi_webp/v4SV0CS1qwY/mqdefault.webp?v=613c1819&sqp=CICu8IkG&rs=AOn4CLCyTqfeKHnvpOGD1A8z5TxKrfu-OQ)](https://youtu.be/v4SV0CS1qwY "Everything Is AWESOME")
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -64,6 +65,6 @@ salvar e mover para
 mv anaconda-navigator.desktop ~/.local/share/applications/
 ```
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/v4SV0CS1qwY "Everything Is AWESOME")
+
 
 
