@@ -64,3 +64,6 @@ salvar e mover para
 mv anaconda-navigator.desktop ~/.local/share/applications/
 ```
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/v4SV0CS1qwY "Everything Is AWESOME")
+
+
